@@ -2,7 +2,9 @@
 
 Este repositório contém um exercício em **Dart**, baseado em aulas da **Alura**, que demonstra como trabalhar com **listas, conjuntos (sets)** e **mapas (maps)** para manipulação de e-mails.
 
-![Código da Calculadora Dart](dart.listas.png)
+## 🖼️ Exemplo do Código
+
+![Exemplo do código em Dart](dart.listas.png)
 
 ## 🚀 Tecnologias
 - [Dart](https://dart.dev/)
